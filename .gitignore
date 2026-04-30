@@ -1,0 +1,20 @@
+# Dataset
+dataset/
+
+# Model weights / checkpoints
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+*.egg-info/
+
+# Misc
+.DS_Store
